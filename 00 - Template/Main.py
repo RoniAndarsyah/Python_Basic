@@ -1,3 +1,4 @@
-print ("Hallo Duniaku")
-print ("Apa Kabarnya")
-print ("Ini anya Uji COba ya")
+print ("nanaonan")
+print ("nanaonan")
+print ("nanaonan")
+print ("nanaonan")
