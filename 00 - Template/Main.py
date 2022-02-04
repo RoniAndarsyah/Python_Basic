@@ -6,5 +6,9 @@ print ("nanaonan")
 print("hello Bray")
 #Ini adalah Komentar
 
-a = 10
+#ini membuat asignment untuk menampilkan data 
+a = 10 #ini komentar juga
+""" Ini adalah komentar menggunakan tanda kutif tiga dalam komentar multiline"""
 print(a)
+
+#kita bisa compile python ke bytecode ()
