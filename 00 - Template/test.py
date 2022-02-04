@@ -1,1 +1,0 @@
-print("apa kabar gaiss")
